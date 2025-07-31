@@ -6,7 +6,8 @@ This project showcases the design and implementation of a **Modern Data Warehous
 ---
 
 ## 🏗️ Data Architecture
-![Project Architecture](docs/data_architecture.png)
+![Project Architecture](https://github.com/Navyam-04/Data-Warehouse-CRM-and-ERP-Data-Integration-for-Business-Insights/blob/main/documents/project_architecture.png?raw=true)
+
 The architecture adopts the **Medallion Layered Approach**:
 
 - 🔹 **Bronze Layer**: Raw data ingested from CSV files (CRM & ERP sources) into SQL Server.
